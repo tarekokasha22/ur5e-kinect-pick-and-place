@@ -1,0 +1,38 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+*.egg-info/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.env
+.venv
+env/
+venv/
+
+# ROS logs
+~/.ros/log/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Calibration files (machine-specific)
+*.npz
+*.yaml.bak
+
+# Compiled binaries
+*.o
+*.a
