@@ -472,6 +472,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-Made with care at **GIU Cairo**
+Made with care at **GIU**
 
 </div>
